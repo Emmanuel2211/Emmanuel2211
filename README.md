@@ -1,4 +1,4 @@
- Hello! My name is ████████ ████ █████, I'm currently studying a Computer Engeneering degree at ███████████ ██ █████████. 
+ Hello! My name is ████████ ████ █████, I'm currently studying a Computer Engeneering degree at ███████████ ██ █████████.  I have passion for videogames, music and sports.
 
 
 <!---
