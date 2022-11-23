@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Emmanuel2211
-- 👀 I’m interested in games
-- 🌱 I’m currently learning c++ and python
+ Hello! My name is ████████ ████ █████, I'm currently studying a Computer Engeneering degree at ███████████ ██ █████████. 
 
 
 <!---
