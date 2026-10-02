@@ -5,7 +5,7 @@
     you can reach out through ... or my email <a href="mailto:jessepinkman22@ciencias.unam.mx">jessepinkman22@ciencias.unam.mx</a>
     <br/><br/>
     💬 pronouns: he/him<br/>
-    🌱 learning: neural networks, perceptron-based learning<br/>
+    🌱 learning: ML, perceptron-based learning<br/>
   </samp>
 </p>
 
